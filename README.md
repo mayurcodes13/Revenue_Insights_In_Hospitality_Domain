@@ -1,4 +1,4 @@
-<img width="643" alt="HOSPITALITY COVER PHOTO" src="https://github.com/mayurcodes13/Revenue_Insights_In_Hospitality_Domain/assets/146315481/34037d36-6187-4267-a01f-3a969186bd10"># Revenue Insights In Hospitality Industry
+# Revenue Insights In Hospitality Industry
 [Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTM1YjEyNWEtNTc0Mi00Y2FhLWEwYzEtMGQxMjE1NGU3NGUyIiwidCI6IjhjNzhjMTIyLWY3ODEtNDUwMC05YzJhLWY2NDVhNzYyODFmNSJ9)
 
 I'm thrilled to share with you the successful completion of an insightful data analytics project in the hospitality sector, titled "Revenue Insights in the Hospitality Industry."
@@ -20,6 +20,7 @@ I'm thrilled to share with you the successful completion of an insightful data a
 𝗗𝗨𝗥𝗡 (Daily Utilized Room Nights): Provides insights on daily room occupancy.
 
 Dashboard Home Page:
+
 <img width="643" alt="HOSPITALITY COVER PHOTO" src="https://github.com/mayurcodes13/Revenue_Insights_In_Hospitality_Domain/assets/146315481/31b2d2a6-c69f-4b48-a097-82b30bbe878d">
 
 The project was an enriching journey through the specific challenges and data intricacies unique to the hospitality sector. Every industry presents its own set of data nuances, and navigating through them was particularly intriguing
